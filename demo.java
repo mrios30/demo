@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class demo here.
+ * demo
  *
  * @author (your name)
  * @version (a version number or a date)
